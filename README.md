@@ -1,2 +1,1 @@
-# faturamento-diario
-Desafio de lógica de programação
+# Código no arquivo "app.js"
